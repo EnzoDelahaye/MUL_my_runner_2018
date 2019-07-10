@@ -23,7 +23,7 @@ DESCRIPTION :
 - Quit thanks to 'Q'.
 - You will have some difficult for pass obstacles, you have to cross a little the obstacle for pass it
 
-OPTION : 
+USAGE : 
 ./my_runner
 
 **************
